@@ -29,7 +29,7 @@ Este repositório contém um script de instalação automatizada que configura o
 ### 1. Clone o repositório
 
 ```bash
-git clone [https://github.com/andrelquiosi/zsh_plus_oh-my-zsh_config.git](https://github.com/andrelquiosi/oh-my-zsh_auto-config)
+git clone https://github.com/andrelquiosi/oh-my-zsh_auto-config
 cd oh-my-zsh_auto-config
 ```
 
