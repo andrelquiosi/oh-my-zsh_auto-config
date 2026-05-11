@@ -29,8 +29,8 @@ Este repositório contém um script de instalação automatizada que configura o
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/andrelquiosi/zsh_plus_oh-my-zsh_config.git
-cd zsh_plus_oh-my-zsh_config
+git clone [https://github.com/andrelquiosi/zsh_plus_oh-my-zsh_config.git](https://github.com/andrelquiosi/oh-my-zsh_auto-config)
+cd oh-my-zsh_auto-config
 ```
 
 ### 2. Execute o script de instalação
@@ -51,7 +51,7 @@ O script exibirá uma mensagem de conclusão. Para que as alterações tenham ef
 ## Estrutura do repositório
 
 ```
-zsh_plus_oh-my-zsh_config/
+oh-my-zsh_auto-config/
 ├── install.sh    # Script principal de instalação
 └── README.md     # Este arquivo
 ```
